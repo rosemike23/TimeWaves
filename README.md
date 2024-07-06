@@ -3,8 +3,9 @@ The code of TimeWaves model for forecasting dynamical time series
 
 
 ## Download datasets
-The data used in this project can be found in the link bellow,
-please download them and drag those 7 folders into ./dataset/.
+The data used in this project can be found at the link below,
+
+Please download them and drag those 7 folders into ./dataset/.
 
 https://drive.google.com/drive/folders/1xZso6MUk00Ly_o0gs3VVCF2Odr7sR6KY?usp=drive_link
 
