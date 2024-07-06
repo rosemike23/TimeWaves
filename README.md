@@ -1,8 +1,15 @@
 # TimeWaves
 The code of TimeWaves model for forecasting dynamical time series
 
+## Download datasets
+The data used in this project can be found in the link bellow,
+please download them and drag those 7 folders into ./dataset/.
+
+https://drive.google.com/drive/folders/1xZso6MUk00Ly_o0gs3VVCF2Odr7sR6KY?usp=drive_link
+
 ## Preparation
 TimeWaves model requires a custoum "_cwtline.py" to function.
+
 '_cwtline.py' file can be found in the same folder as this README.txt.
 
 To achieve this function, please proceed with the following steps:
@@ -26,4 +33,5 @@ pip install -r requirements.txt
 Now we are read to train and evaluate our model:
 - We provide the experiment scripts for tested benchmarks shown in our paper under the folder ./scripts/.
 - You can run the experiment results as the following examples（eg. long-term forecast）:
+  
 bash ./scripts/long_term_forecast/ETT_script/TimeWaves_ETTh2.sh
