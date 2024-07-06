@@ -25,7 +25,7 @@ pip install -r requirements.txt
   
 ![alt text](image.png)
 
-- Then, add a line of code (from ._cwtline import *) in line 25 of "__init__.py".
+- Then, add a line of code (from ._cwtline import *) in line 25 of '__init__.py'.
   
 ![alt text](image-1.png)
 
