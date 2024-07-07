@@ -40,4 +40,4 @@ Now we are ready to train and evaluate our model:
 - We provide the experiment scripts for tested benchmarks shown in our paper under the folder ./scripts/.
 - You can run the experiment results as the following examples（eg. long-term forecast - ETTh2）:
   
-bash ./scripts/long_term_forecast/ETT_script/TimeWaves_ETTh2.sh
+bash ./scripts/long_term_forecast/Rocket_script/TimeWaves.sh
