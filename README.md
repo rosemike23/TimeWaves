@@ -1,5 +1,5 @@
 # TimeWaves
-The code of TimeWaves model for forecasting dynamical time series
+The code of TimeWaves model for dynamical forecasting
 
 
 ## Download datasets
