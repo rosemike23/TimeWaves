@@ -54,5 +54,4 @@ bash ./scripts/long_term_forecast/Rocket_script/TimeWaves.sh
   booktitle={International Conference on Learning Representations},
   year={2023},
 }
-
 ```
