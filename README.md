@@ -37,7 +37,7 @@ pip install -r requirements.txt
 
 ## Run the program
 Now we are ready to train and evaluate our model:
-- We provide the experiment scripts for tested benchmarks shown in our paper under the folder ./scripts/.
+- We provide the experiment scripts for tested benchmarks under the folder ./scripts/.
 - You can run the experiment results as the following examples（eg. long-term forecast - rocket）:
   
 ```
