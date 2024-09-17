@@ -25,7 +25,7 @@ python -u run.py \
   --top_k 5 \
   --des 'Exp' \
   --itr 1 \
-  --train_epochs 1 \
+  --train_epochs 5 \
   --batch_size 4 \
   --plot_samplerate 5 \
   --draw_samplerate 1 \
@@ -55,7 +55,7 @@ python -u run.py \
   --top_k 5 \
   --des 'Exp' \
   --itr 1 \
-  --train_epochs 1 \
+  --train_epochs 5 \
   --batch_size 1 \
   --plot_samplerate 50 \
   --draw_samplerate 1 \
