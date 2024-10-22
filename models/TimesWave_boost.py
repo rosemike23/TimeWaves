@@ -197,7 +197,7 @@ class TwinBlock(nn.Module):
 
 class Model(nn.Module):
     """
-    Paper link: https://openreview.net/pdf?id=ju_Uqw384Oq
+    Reference Paper link: https://openreview.net/pdf?id=ju_Uqw384Oq
     """
 
     def __init__(self, configs):
