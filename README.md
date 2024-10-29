@@ -3,11 +3,10 @@ The code of TimeWaves model for dynamical forecasting
 
 
 ## Download datasets
-The data used in this project can be found at the link below,
+The data used in this project can be accessed via this [link](https://drive.google.com/drive/folders/1xZso6MUk00Ly_o0gs3VVCF2Odr7sR6KY?usp=drive_link).
 
-Please download them and drag those 7 folders into ./dataset/.
+Please download them and drag the data folders into ./dataset/.
 
-https://drive.google.com/drive/folders/1xZso6MUk00Ly_o0gs3VVCF2Odr7sR6KY?usp=drive_link
 
 
 ## Preparation
